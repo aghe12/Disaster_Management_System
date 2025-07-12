@@ -20,10 +20,10 @@ Developed as a **Mini Project** in the 5th semester under the guidance of **Dr. 
 
 ## 👨‍💻 Team Members
 
-- **Divya V** - 4SF22CS061  
-- **Meghashree K** - 4SF22CS110  
-- **Samreena** - 4SF22CS176  
-- **Sanjana Rai** - 4SF22CS181  
+- **Divya V** 
+- **Meghashree K** 
+- **Samreena** 
+- **Sanjana Rai**   
 
 ---
 
